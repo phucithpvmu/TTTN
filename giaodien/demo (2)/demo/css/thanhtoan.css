@@ -1,0 +1,54 @@
+.main {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.bold {
+    font-weight: bold;
+}
+#top-heading {
+    font-size: 20px;
+    text-align: center;
+}
+input {
+    margin-left: 20px;
+}
+button {
+    margin-left: 40px;
+}
+table, th, td {
+    border: 1px solid #dedede;
+}
+th, td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin-top: 20px;
+}
+button:active {
+    border: none;
+}
+
+.bottom {
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.hang {
+    display: flex;
+    justify-content: space-between;
+}
+.cot {
+    width: 45%;
+}
+#sau {
+    margin-top: 20px;
+}

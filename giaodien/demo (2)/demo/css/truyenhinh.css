@@ -1,0 +1,133 @@
+.noidung {
+    display: flex;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+.left {
+    width: 70%;
+    /* border: 1px solid black; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.right {
+    width: 25%;
+    /* border: 1px solid black; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.bold {
+    font-weight: bold;
+}
+.table {
+    /* margin-left: 40px; */
+    /* border: 1px solid black; */
+    text-align: center;
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.table, table {
+    justify-content: center;
+    margin-right: auto;
+    margin-right: auto;
+}
+.table-chi-tiet {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 1px solid black; */
+    color: #17365c;
+    border-color: #2a66b0;
+    font-family: Segoe UI;
+}
+/* .table-p {
+    text-align: center;
+} */
+th, td {
+    border: 1px solid #2a66b0;
+}
+th{
+    border-top: 1px solid #2a66b0;
+}
+.table-p {
+    color: #1f497d;
+    font-weight: bold;
+    font-size: 20px;
+}
+.italic {
+    font-style: italic;
+}
+.text1 {
+    color: #1f4991;
+}
+.text1-tieu-de, 
+.text1-sao,
+.text2
+ {
+    font-weight: bold;
+}
+.text1-noi-dung {
+    font-style: italic ;
+}
+.text2 {
+    color: red;
+}
+.dat-mua {
+    border: 1px solid black;
+    justify-content: center;
+    text-align: center;
+    line-height: 40px;
+    font-size:20px ;
+}
+#sdt {
+    font-size: 25px;
+    text-decoration: underline;
+    color: #1f4991;
+    
+}
+.text3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 38px;
+    font-style: italic;
+    font-size: 20px;
+    color: #1f497d;
+}
+.img-thanh-toan{
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+#center {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 3px solid #2a66b0;
+}
+.thong-tin-noi-dung-moi {
+    font-size: 15px;
+    margin-left: 10px;
+}
+.thong-tin-1{
+    display: flex;
+    margin-top: 20px;
+}
+.thong-tin {
+    display: block;
+}
+.video {
+    margin-top: 50px;
+}
+.thong-tin-moi a{
+    color: black;
+}
+.thong-tin-moi a:hover {
+    color: blue;
+}

@@ -1,0 +1,52 @@
+.main {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.main-left {
+    width: 70%;
+    
+    display: block;
+    /* margin-right:5% ; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-right{
+    width: 25%;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-hang {
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.main-chitiet{
+    width: 45%;
+    
+    display: block;
+}
+.bold {
+    font-weight: bold;
+    font-family: Roboto, "Open Sans", Arial;
+    font-size: 14px;
+}    
+.noidung {
+    font-size: 14px;
+}
+.thong-tin-1 {
+    display: flex;
+    margin-top: 20px;
+}
+#center {
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.video {
+    margin-top: 30px;
+}

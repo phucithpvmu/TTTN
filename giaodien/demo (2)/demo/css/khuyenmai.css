@@ -1,0 +1,51 @@
+.content {
+    width: 90%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.left {
+    width: 70%;
+    /*border: 1px solid black;*/
+    display: block;
+}
+
+.right {
+    width: 25%;
+    /*border: 1px solid black;*/
+}
+.hang {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.cot {
+    width: 47%;
+    /*border: 1px solid black;*/
+}
+#sau{
+    margin-top: 30px;
+}
+/* addd */
+.thong-tin-noi-dung-moi {
+    font-size: 15px;
+    margin-left: 10px;
+}
+.thong-tin-1{
+    display: flex;
+    margin-top: 20px;
+}
+.thong-tin {
+    display: block;
+}
+.video {
+    margin-top: 50px;
+}
+.thong-tin-moi a{
+    color: black;
+}
+.thong-tin-moi a:hover {
+    color: blue;
+}

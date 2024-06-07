@@ -1,0 +1,80 @@
+.top {
+    width: 100%;
+    background-color: #fafafa;
+}
+.top-content, .mid-content {
+    width: 90%;
+    margin: 10px auto auto auto;
+}
+.top-heading, .mid-heading {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Roboto, "Open Sans", Arial;
+    text-align: center;
+    margin-top: 40px;
+    color: #0058ab;
+}
+.top-img {
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.bold {
+    font-weight: bold;
+}
+.mid {
+    width: 100%;
+}
+.mid-heading {
+    border-bottom: 1px solid gray;
+}
+.home-net {
+    width: 80%;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+}
+.hang-ngang {
+    display: flex;
+    
+    justify-content: space-between;
+}
+.gia-tien {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    color: red;
+}
+button {
+    background-color: #17a9e8;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px 30px 10px 30px;
+    border: none;
+    color: white;
+    display: flex;
+    /* text-align: center; */
+    /* justify-content: center; */
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.hang-ngang .home-net-sp .dat-mua {
+    margin-bottom: 20px;
+}
+button:hover {
+    background-color: blue;
+    color: white;
+}
+.home-net-sp {
+    height: 480px;
+    background-color: #f2f2f2;
+    /* border: 0.1px solid gray; */
+    /*  */
+}
+.hang-ngang {
+    margin-top: 20px;
+}

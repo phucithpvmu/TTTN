@@ -1,0 +1,62 @@
+.quang-cao-1, .quang-cao-1 .img-quang-cao-1 {
+    text-align: center;
+}
+.san-pham-hot, .tin-tuc-khuyen-mai {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 1px solid black; */
+}
+.p-san-pham-hot, .p-ttkm{
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+.p-ttkm {
+    padding-top: 40px;
+}
+.sph, .tt-km {
+    /* border: 1px solid black; */
+    width: 30%;
+    display: flex; /* Sử dụng flexbox */
+    flex-direction: column; /* Sắp xếp các phần tử theo chiều dọc */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+
+}
+.sph-chi-tiet, .khuyen-mai-chi-tiet {
+    display: flex;
+    justify-content: space-between;
+}
+.shp .p {
+    font-weight: 20px;
+}
+.bold {
+    font-weight: bold;
+}
+.red {
+    color: red;
+    font-weight: bold;
+}
+.black {
+    color: black;
+}
+button {
+    background-color: #17a9e8;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 5px 20px 5px 20px;
+    border: none;
+    color: white;
+}
+button:hover {
+    background-color: blue;
+    color: white;
+}

@@ -1,0 +1,27 @@
+
+CHƯƠNG 1. GIỚI THIỆU BÀI TOÁN
+1.1 Giới thiệu cơ sở thực tập
+1.2 Giới thiệu bài toán
+1.3 Mô tả bài toán
+1.4 Tìm hiểu nghiệp vụ bài toán
+
+CHƯƠNG 2. KHẢO SÁT THU THẬP DỮ LIỆU
+2.1 Khảo sát thực trạng hệ thống
+2.2 Phỏng vấn tổng quan hệ thống
+
+CHƯƠNG 3. PHÂN TÍCH HỆ THỐNG
+3.1 Sơ đồ user case
+3.2 Sơ đồ lớp
+3.3 Sơ đồ trạng thái
+3.4 Sơ đồ hoạt động
+
+CHƯƠNG 4. THIẾT KẾ HỆ THỐNG
+4.1 Cơ sở dữ liệu
+Chương 3. Thiết kế giao diện và đề mô
+Ngôn ngữ sử dụng
+Môi trường sử dụng
+Công cụ sử dụng
+Đề mô các giao diện chính
++ Trang chủ
++ Các trang chức năng chính
+4.2 Giao diện

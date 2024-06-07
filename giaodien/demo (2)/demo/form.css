@@ -1,0 +1,126 @@
+body{
+    display: flex;
+    flex-direction: column;
+    /* flex:1; */
+}
+.khachhang-top {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    background-color: #021d40;
+}
+.seach {
+    width: 200px;
+    height: 30px;
+    width: 70%;
+    display: flex;
+}
+.post {
+    display: flex;
+}
+.post a{
+    color:white;
+    text-decoration: none;
+}
+.post a:hover {
+    color: aqua;
+}
+#input-seach {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+#dang-nhap {
+    margin-left: 80px;
+}
+.post {
+    font-weight: bold;
+}
+.heading {
+    margin-top: 20px;
+    
+    display: flex;
+}
+.heading {
+    width: 100%;
+}
+
+.heading-vnpt-hai-phong{
+    width: 70%;
+    display: flex;
+    margin-top: 15px;
+}
+/* .heading, .khachhang-top {
+    flex: 1;
+} */
+.heading-vnpt-hai-phong a {
+    font-size: 18px;
+    text-decoration: none;
+    /* ; */
+}
+.heading .heading-vnpt-hai-phong h2 {
+    margin-left: 20px;
+}
+.heading .heading-logo {
+    width: 30%;
+    /*  */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.heading-vnpt-hai-phong a:hover {
+    color:violet;
+}
+.heading .heading-vnpt-hai-phong .heading-thanh-toan h2 a{
+    color: red;
+    font-weight: bold;
+
+}
+.heading-logo h2{
+    color: #0058ab;
+}
+.heading-logo h2 img{
+    max-height:80px ;
+}
+
+/* css footer  */
+footer {
+    width: 100%;
+    background-color: #1782d4;
+    margin-top: 20px;
+}
+.footer-noidung {
+    width: 90%;
+    margin-top: 20px;
+    /* background-color: pink; */
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    color: white;
+    padding-bottom: 30px ;
+}
+.footer-noidung .trung-tam {
+    width: 40%;
+    
+}
+.footer-noidung .chinh-sach, .footer-noidung .ho-tro, .footer-noidung .phuong-thuc {
+    width: 20%;
+    
+    line-height: 25px;
+}
+.trung-tam , .chinh-sach , .ho-tro  {
+    font-size: 14px;
+}
+a:hover {
+    text-decoration: none;
+}
+.footer-noidung a{
+    color: white;
+}
+header {
+    border-bottom: 1px solid #021d40;
+}

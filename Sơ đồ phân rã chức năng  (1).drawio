@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" modified="2024-03-02T03:22:13.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0HvNac-K7LUKXtORXxHH" version="23.1.7" type="device">
+  <diagram name="Trang-1" id="5IOxxjR3vX1s9PYMxLOA">
+    <mxGraphModel dx="1318" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-1" value="Quản lý bán hàng cho VNPT Hải Phòng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-2" value="Quản lý hệ thống" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-3" value="Quản lý đăng nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-4" value="Quản lý đăng xuất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-5" value="Quản lý tài khoản" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-6" value="Quản lý phân quyền" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-7" value="Quản lý danh mục" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-8" value="Quản lý nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-9" value="Quản lý xuất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-10" value="Quản lý nhà cung cấp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-11" value="Quản lý loại hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-13" value="Quản lý bán hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="499" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-14" value="Quản lý thông tin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-15" value="Quản lý giỏ hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-16" value="Quản ý thanh toán" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-17" value="Lập hóa đơn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-18" value="Báo cáo thống kê" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="739" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-19" value="Thống kê nhập hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="779" y="220" width="181" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XeBs3oWR_K5mBn4OILpy-20" target="XeBs3oWR_K5mBn4OILpy-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="359.5882352941177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-20" value="Thống kê danh sách hóa đơn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="779" y="340" width="181" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-21" value="Thống kê danh sách sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="779" y="400" width="181" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-22" value="Báo cáo tài chính" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="779" y="460" width="181" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-24" value="Cấu hình hệ thống&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-25" value="Quản lý nhân viên&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-26" value="Quản lý khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="580" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-27" value="Quản lý kho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-28" value="Cập nhật sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="580" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XeBs3oWR_K5mBn4OILpy-31" target="XeBs3oWR_K5mBn4OILpy-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-31" value="Thống kê xuất hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="779" y="280" width="181" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-32" value="Lập phiếu xuất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="460" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-33" value="Lập phiếu nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-34" value="Quản lý sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-35" value="Tìm kiếm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="779" y="520" width="181" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-37" value="- tên hàng&lt;br&gt;- số lượng&lt;br&gt;- tổng tiền&lt;br&gt;- thời gian lập" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="310" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XeBs3oWR_K5mBn4OILpy-39" value="- tên hàng&lt;br&gt;- sốlượng&lt;br&gt;- thời gian xuất" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
